@@ -1,5 +1,5 @@
 function home() {
-    return<h1>funk word and you and me</h1>
+    return<h1>Jesus é o Caminho e a Salvaçâo</h1>
 }
 
 export default home;
